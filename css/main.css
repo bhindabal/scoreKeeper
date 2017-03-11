@@ -1,0 +1,42 @@
+*, #haha {
+	font-family: 'Roboto Condensed', sans-serif;
+	color: white;
+	letter-spacing: 1px
+}
+.winner {
+	color: green !important;
+	font-size: 165%;
+	transition: ease-in-out
+}
+
+h1 {
+	text-align: center;
+	font-size: 150%
+}
+p   {
+		text-align: center;
+		font-size: 150%
+}
+div {
+		text-align: center;
+		font-size: 150%
+}
+p span {
+	color: white;
+	font-size: 150%
+}
+input {
+	width: 50%;
+	margin: 2% auto !important;
+	display: block;
+	box-shadow: 2px 2px 3px black;
+	border: transparent;
+}
+.btn {
+	margin: 0 0.5%;
+	letter-spacing: 1px
+}
+
+body p #play {
+	color: #c6f7c6 !important
+}
